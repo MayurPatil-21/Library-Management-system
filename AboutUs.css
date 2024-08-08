@@ -1,0 +1,42 @@
+.about-us {
+    
+    text-align: center;
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 10px;
+    width: 900px ;
+    height: 650px;
+    background: transparent;
+    padding-bottom: 30px;
+    border: 2px solid rgba(255, 255, 255, 2);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    border-radius: 10px;
+  }
+  
+  .about-us h2 {
+    color: #fff;
+  }
+  
+  .about-us h3 {
+    color: #fff;
+  }
+  
+  .about-us p {
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+  
+  .about-us a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .about-us a:hover {
+    text-decoration: underline;
+  }
+  
